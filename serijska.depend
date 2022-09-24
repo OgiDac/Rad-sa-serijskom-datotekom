@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1578593454 source:/home/aleksandar/Desktop/04_OP/04_BP1_OP_primeri/op-master/serijska/main.c
+	"stdio.h"
+	"stdlib.h"
+	"operacije_nad_datotekom.h"
+
+1578593454 /home/aleksandar/Desktop/04_OP/04_BP1_OP_primeri/op-master/serijska/operacije_nad_datotekom.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"definicije_struktura_podataka.h"
+
+1640078528 /home/aleksandar/Desktop/04_OP/04_BP1_OP_primeri/op-master/serijska/definicije_struktura_podataka.h
+
+1578593454 source:/home/aleksandar/Desktop/04_OP/04_BP1_OP_primeri/op-master/serijska/operacije_nad_datotekom.c
+	"operacije_nad_datotekom.h"
+
+1642708500 source:c:\users\ognjen\desktop\baze2projekat\primeri\serijska\main.c
+	"stdio.h"
+	"stdlib.h"
+	"operacije_nad_datotekom.h"
+
+1642675005 c:\users\ognjen\desktop\baze2projekat\primeri\serijska\operacije_nad_datotekom.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"definicije_struktura_podataka.h"
+
+1642708539 c:\users\ognjen\desktop\baze2projekat\primeri\serijska\definicije_struktura_podataka.h
+
+1642725112 source:c:\users\ognjen\desktop\baze2projekat\primeri\serijska\operacije_nad_datotekom.c
+	"operacije_nad_datotekom.h"
+
+1642736850 source:c:\users\ognjen\desktop\pr7_2019\serijska\main.c
+	"stdio.h"
+	"stdlib.h"
+	"operacije_nad_datotekom.h"
+
+1642675005 c:\users\ognjen\desktop\pr7_2019\serijska\operacije_nad_datotekom.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"definicije_struktura_podataka.h"
+
+1642708539 c:\users\ognjen\desktop\pr7_2019\serijska\definicije_struktura_podataka.h
+
+1642736850 source:c:\users\ognjen\desktop\pr7_2019\serijska\operacije_nad_datotekom.c
+	"operacije_nad_datotekom.h"
+
+1642950609 source:c:\users\ognjen\desktop\baze2\z4_pr_1,pr7_2019,ognjendacevic\serijska\main.c
+	"stdio.h"
+	"stdlib.h"
+	"operacije_nad_datotekom.h"
+
+1642675006 c:\users\ognjen\desktop\baze2\z4_pr_1,pr7_2019,ognjendacevic\serijska\operacije_nad_datotekom.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"definicije_struktura_podataka.h"
+
+1642708540 c:\users\ognjen\desktop\baze2\z4_pr_1,pr7_2019,ognjendacevic\serijska\definicije_struktura_podataka.h
+
+1642950556 source:c:\users\ognjen\desktop\baze2\z4_pr_1,pr7_2019,ognjendacevic\serijska\operacije_nad_datotekom.c
+	"operacije_nad_datotekom.h"
+
